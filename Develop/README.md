@@ -14,5 +14,5 @@ If you have anything you'd like to contribute contact me at bluocher2@gmail.com
 # Tests
 Loading... 
 # Questions
-Any questions can be sent via emial: bluocher2@gmail.com or through my github:AshleyCrutchfield
+Any questions can be sent via emial: bluocher2@gmail.com or through my github: AshleyCrutchfield
 Thanks for stopping by!
