@@ -2,7 +2,7 @@
 # Description
 To build a presentable and professional looking README that will show viewers what my application does. 
 # Table of Contents
-*Description *Installation *Usage *License *Contributing *Tests *Questions*
+*Description Installation Usage License Contributing Tests Questions*
 # Installation
 Code was downloaded from Github.
 # Usage
