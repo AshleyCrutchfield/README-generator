@@ -1,10 +1,18 @@
-# README-generator
+# My README
 # Description
-Here is a README generator that easily allows users to generate a professional README
+To build a presentable and professional looking README that will show viewers what my application does. 
+# Table of Contents
+*•Description •Installation •Usage •License •Contributing •Tests •Questions*
 # Installation
-Code for this repo was downloaded from github
+Code was downloaded from Github.
 # Usage
-Type in "node index.js" within the terminal (and within the repo)
-# Questions or Contributions
-Email: bluocher2@gmail.com 
-Github: AshleyCrutchfield
+Type 'node index.js' in the terminal
+# License
+Apache
+# Contributing
+If you have anything you'd like to contribute contact me at bluocher2@gmail.com
+# Tests
+Loading... 
+# Questions
+Any questions can be sent via emial: bluocher2@gmail.com or through my github: AshleyCrutchfield
+Thanks for stopping by!
